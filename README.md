@@ -10,9 +10,9 @@ Remote work using Kodi's jsonrpc API so you can customise the code according to 
 4. Connect IR Receiver on GPIO14 [D5]
 4. After uploading the code open serial monitor and decode your IR remote with the keys you want to use and Note them down
 5. After that upload my ESPKodiRemote Code , you have to change some things to make it work for you
-  (i). Add your wifi credentials
-  (ii). The Local IP of your Kodi Device.
-  (iii). The Hex codes of IR remote in Switch Statement of code [i will add comments in code to make it easier]
+ (i). Add your wifi credentials
+ (ii). The Local IP of your Kodi Device.
+ (iii). The Hex codes of IR remote in Switch Statement of code [i will add comments in code to make it easier]
 6. You are now good to go :)
 
 
